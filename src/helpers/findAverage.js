@@ -6,5 +6,5 @@ export const findAverage = (numbers) => {
     sum += element
   }
 
-  return sum
+  return sum/numbers.length
 }
