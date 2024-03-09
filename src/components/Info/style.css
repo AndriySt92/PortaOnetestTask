@@ -1,0 +1,13 @@
+.main__info-list {
+  margin-left: 0px;
+  padding: 30px 0px;
+  font-size: 20px;
+}
+
+.info-list__item {
+  padding: 10px 0px;
+}
+
+.info-list__item span {
+  font-weight: bold;
+}
